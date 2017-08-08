@@ -1,0 +1,29 @@
+h1, .rodape{
+    background-color: darkslateblue;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    line-height: 40px;
+    clear: both;
+    width: 100%;
+}
+h2{
+    text-align: center
+}
+
+div{
+    width: 25%;
+    float: left;
+    margin-bottom: 5%
+}
+
+div img{
+    float: left;
+    width: 33%;
+    margin-right: 3%
+}
+
+div span{
+    display: block;
+    font-weight: bold
+}
