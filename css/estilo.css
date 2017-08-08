@@ -27,3 +27,7 @@ div span{
     display: block;
     font-weight: bold
 }
+
+header, footer{
+    border: 1px solid red;
+}
