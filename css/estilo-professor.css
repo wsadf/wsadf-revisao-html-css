@@ -1,0 +1,29 @@
+body{
+	font-family:consolas;
+}
+
+.cabecalho-rodape{
+	background-color:navy;
+	color:white;
+}
+
+.cabecalho-rodape h2{
+	background-color:navy;
+	color:white;
+	text-align:center;
+}
+
+ul{
+	list-style:none;
+}
+
+.livro{
+	display:inline-block;
+	position:relative;
+	width:250px;
+	height:160px;
+	margin-bottom: 10px;
+}
+
+.livro img{
+}
